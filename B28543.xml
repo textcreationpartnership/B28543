@@ -1,0 +1,322 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Publique bathes purged. Or, A reply to Dr Chamberlain his Vindication of publique artificial bathes from the pretended objections and scandals obtruded on them.</title>
+         </titleStmt>
+         <extent>Approx. 37KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B28543</idno><idno type="EEBO-CITATION">99829139</idno>
+  <idno type="VID">207725</idno>
+  <idno type="EEBO-PROQUEST">2240866065</idno>
+  
+            <idno type="STC">Wing P4149A</idno>
+            <idno type="PROQUEST">99829139</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99829139e"/>
+            <note>(EEBO-TCP ; phase 2, no. B28543)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 207725)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1938:6)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Publique bathes purged. Or, A reply to Dr Chamberlain his Vindication of publique artificial bathes from the pretended objections and scandals obtruded on them.</title>
+               </titleStmt>
+               <extent>[2], 14 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>Printed in the year, 1648.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>An anonymous response to: Chamberlen, Peter.  A vindication of publick artificiall baths &amp; bath-stoves from the objections and scandalls obtruded on them, by those that do not, or will not know their great benefit to the publick.</note>
+                  <note>Reproduction of the original in the Bodleian Library, Oxford.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Chamberlen, Peter, 1601-1683. --  Vindication of publick artificiall baths &amp; bath-stoves from the objections and scandalls obtruded on them, by those that do not, or will not know their great benefit to the publick.</term>
+               <term type="uniform_title">Vindication of publick artificiall baths &amp; bath-stoves from the objections and scandalls obtruded on them, by those that do not, or will not know their great benefit to the publick.</term>
+               <term type="topical_term">Baths --  England --  Early works to 1800.</term>
+               <term type="topical_term">Public baths --  England --  Early works to 1800.</term>
+               <term type="topical_term">Bathing customs --  Europe --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-07 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-09 </date>
+            <label>Olivia Bottum </label>Sampled and proofread </change>
+         <change>
+            <date>2014-09 </date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:207725:1"/>
+            <p>
+               <hi>PƲBLIQƲE</hi> BATHES PVRGED. <hi>OR,</hi> A <hi>REPLY</hi> to D<seg rend="sup">r</seg> CHAMBERLAIN his VINDICATION of <hi>Publique Artificial Bathes,</hi> From the <hi>pretended</hi> Objections and Scan<g ref="char:EOLhyphen"/>dals obtruded on them.</p>
+            <p>Printed in the Year, 1648.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:207725:2"/>
+            <pb n="1" facs="tcp:207725:2"/>
+            <head>Publique Bathes Purged, &amp;c.</head>
+            <p>
+               <seg rend="decorInit">S</seg>Ome men have such an itch to quarrell, that ra<g ref="char:EOLhyphen"/>ther then they will want objects, they will fight with their owne shadowes, or make to them<g ref="char:EOLhyphen"/>selves enemies of straw, that they may tear them to pieces, and triumph in their ruine. This doth Doctor <hi>Chamberlain</hi> in his late <hi>Vindication of Publique Bathes:</hi> Because he cannot procure all the Fellowes of his Society, all the Physitians in the Kingdome, <hi>jurare in verba,</hi> and give a blind approbation of his concealed projects, he forgeth <hi>Objections</hi> as from <hi>Them</hi> upon his owne Anvil, and blowes them away as boyes doe bubbles of sope.
+<q>Jactat &amp; impositas taurus in astra pilas.</q> There is good counsell in the <hi>Proverbs</hi> in such a case, and I think the <hi>Fellowes</hi> of the <hi>Colledge</hi> well take that. But a man whom he reckoneth in an inferiour <hi>Classis,</hi> may exchange a passe or two with him, therefore first to his Preface.</p>
+            <p>His <hi>Preface</hi> runs thus:
+<q>If Salus populi be Suprema lex, &amp;c.</q>
+            </p>
+            <div type="reply">
+               <head>REPLY.</head>
+               <p>
+                  <hi>Salus populi</hi> is cryed with the fullest <hi>mouth</hi> sometimes where the <hi>Heart</hi> is onely set upon its own <hi>Advantage.</hi> And he that con<g ref="char:EOLhyphen"/>siders D. <hi>Chamberlain</hi> his <hi>former attempts,</hi> his <hi>late confession</hi> in another Pamphlet, that <hi>He with his Wife are reduced to their first principles, besides nine children into the bargain,</hi> his craving expres<g ref="char:EOLhyphen"/>sions of <hi>merit, allowance,</hi> &amp;c. may have leave to suspect him.</p>
+               <p>Next, he presents his <hi>Bathes</hi> like a <hi>Queen,</hi> qualified with clean<g ref="char:EOLhyphen"/>linesse,
+<pb n="2" facs="tcp:207725:3"/>
+                  <hi>nimblenesse, pleasure, strength and stature,</hi> which certainly a handsome <hi>Dairy-maid</hi> or <hi>Kitchin-wench</hi> may challenge; but how fitly his <hi>Bathes</hi> can we shall in some part discover.</p>
+               <p>To passe by his ignorant definition of a <hi>Doctor,</hi> and grant <hi>Pa<g ref="char:EOLhyphen"/>racelsus</hi> to be a <hi>Doctor</hi>-maker: It is allowed that those <hi>Authors</hi> and many more too, write in commendation of <hi>Bathes,</hi> and ma<g ref="char:EOLhyphen"/>ny <hi>uses</hi> and <hi>excellencies</hi> of them might be added to his Catalogue. But what is that to his <hi>Bathes?</hi> These <hi>Authors</hi> write in generall of the benefit of all <hi>Bathes,</hi> whether <hi>Naturall,</hi> of <hi>Minerall, Foun<g ref="char:EOLhyphen"/>tain, River,</hi> or <hi>Sea waters.</hi> Or <hi>Artificiall</hi> of <hi>Publique, Private, to<g ref="char:EOLhyphen"/>tall, Partiall, Cold, Hot, &amp;c.</hi> And is that faire play to appropriate unto his particular <hi>Bathes</hi> what they writ indefinitely of any, or more particularly of <hi>Private?</hi>
+               </p>
+               <p>Besides, There is no <hi>kind of medicine, vomiting, Purging, Exer<g ref="char:EOLhyphen"/>cise,</hi> &amp;c. but by due application, to prepared bodies, in seasonable times, may be as effectuall in as many diseases. You may heare as great a bed-role of the vertues of <hi>Tobacco,</hi> and many particular medicines. It must be far therefore from any <hi>Physitian</hi> to disallow the use of <hi>Bathing.</hi> That may be done, and all these effects attai<g ref="char:EOLhyphen"/>ned thereby, and is daily without Dr. <hi>Chamberlain.</hi>
+               </p>
+               <p>Farther, the <hi>Doctor</hi> may remember, that his owne Authors sug<g ref="char:EOLhyphen"/>gest almost as many dangers, in the use of <hi>Bathes,</hi> as benefits, if made use of by <hi>some persons,</hi> Plethoricall, Cacoclymicall, or such as have any great defect in any principall part. <hi>Improperly,</hi> as to the <hi>time</hi> as well as the <hi>subject. Immoderately</hi> in any. <hi>Hip:</hi> com<g ref="char:EOLhyphen"/>pendiously tells you, that hot Bathes beget <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. Luxitie of the flesh, weaknesse of the nerv<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s, dull<g ref="char:EOLhyphen"/>nesse of the understanding, bleedings, soundings, death it selfe. He speaks as much of cold, and yet lesse then the truth. All which in most men are prevented in the use of private, because they sel<g ref="char:EOLhyphen"/>dome apply themselves to that remedy without prescription.</p>
+               <p>The Sentences are triviall that follow, and his place of Scrip<g ref="char:EOLhyphen"/>ture alledged to no purpose.</p>
+               <p>Tis not an honour to heare ill, unlesse the cause be just for which he suffers: and the <hi>Doctor</hi> begs the Question at beginning. The <hi>Midwives</hi> say that they have answered what ever he hath obje<g ref="char:EOLhyphen"/>cted, even his <hi>voice of Rama.</hi> Some of the Fellowes (I think whom
+<pb n="3" facs="tcp:207725:3"/>he meaneth) deny that it is their custome to traduce any man. If it were granted that they made these Objections, it is not to speak evill of a man, to differ from him in judgement. <hi>Diversum sen<g ref="char:EOLhyphen"/>tire duos de rebus iisdem. Salva semper licuit amicitia:</hi> Especially where the controversie is between men of any civility.</p>
+            </div>
+            <div type="objections">
+               <head>His Objections and Answers.</head>
+               <p>These lye in a strange method, but we will follow his wild-goose-chase, and first propose them, then his Answers, after Re<g ref="char:EOLhyphen"/>ply upon them. And though they are his owne brats, (if not alto<g ref="char:EOLhyphen"/>gether, Sir, yet <hi>Dum malè tu recites</hi>) give them protection against his unkind usage.</p>
+               <p n="1">1. <hi>Ob.</hi> The first Objection is, <hi>This Country is too cold.</hi>
+               </p>
+               <p>
+                  <hi>Ans.</hi> 1. To this he answereth, 1. <hi>Germany, Poland, Muscovie, are colder, but they use them winter and summer.</hi>
+               </p>
+               <p>
+                  <hi>Reply</hi> 1. To which it is replyed, 1. That those Countries are colder in some parts of them (though it be true of neither in ge<g ref="char:EOLhyphen"/>nerall) in winter indeed, but hotter in summer, the Sun being con<g ref="char:EOLhyphen"/>versant so long upon their Horison, that there is but little night. 2. They use no Publique Artificiall Bathes in <hi>Germany,</hi> or <hi>Poland,</hi> (and I think neither in <hi>Muscovie.</hi>) In all those Countries, pri<g ref="char:EOLhyphen"/>vate <hi>Bathes</hi> and <hi>Bathe-stones</hi> (such as ours in <hi>England,</hi> or not much different) are much in use: So tubs of Snow at their Inne-doores to rub their guests withall, lest being frozen in any part, they should forfeit that in the heat of their Stoves. That remedy o<g ref="char:EOLhyphen"/>therwise onely prevents it. But what is that to <hi>Publique Artificial Bathes?</hi> We have enough such (perhaps too many) as the former, or may have. 3. The generality of people who inhabit those Countries, and make use of those <hi>Bathes</hi> in winter, keep within their warme <hi>Stoves</hi> all that time of the yeare: and though they use the Bathes aforesaid, and open their Pores thereby, yet are not endangered, as we must be in <hi>England.</hi>
+               </p>
+               <p>Answ. 2. <hi>Italy and Greece are colder in Winter, then we in Summer; let us have them in Summer.</hi>
+               </p>
+               <p>
+                  <hi>Reply</hi> 1. Those, who have spent more time then you in <hi>Italy,</hi> know of no <hi>Publick Artificial Bathes</hi> there. 2. No man oppo<g ref="char:EOLhyphen"/>seth your desire, but only propose whether they may not be of greater prejudice then benefit; and desire they may be regulated,
+<pb n="4" facs="tcp:207725:4"/>and not exclusive of others, lest we change a certain benefit for what we know not; or like <hi>Aesop's</hi> dogge, catch at a shadow whiles we lose a reall substance: 'Tis this onely hath caused all this dust. 3. We have already to serve our turne, (if he mean other Bathes) though not so magnificent, nor publick as <hi>Chamber<g ref="char:EOLhyphen"/>lain</hi> pretends unto.</p>
+               <p>Answ. 3. <hi>They are a remedy against cold.</hi>
+               </p>
+               <p>
+                  <hi>Rep.</hi> 1. They heat indeed for the present, but are no remedy for colde; they are like a <hi>false friend,</hi> that perswades to open the dore, that he may enter with an <hi>Enemy.</hi> The pores are so di<g ref="char:EOLhyphen"/>lated, and the habit so rarified thereby, that men are more ob<g ref="char:EOLhyphen"/>noxious thereunto. <hi>Arist.</hi> (if the Doctor hath not skipped over his workes in reading) besides others tels him so: Experience teaches us, that none are so chil and apt to take cold as those who sit most by the fire side. Every <hi>guide at Bath,</hi> would think that <hi>Physitian</hi> mad, who should send a <hi>Patient</hi> thither at <hi>Christmas</hi> for a <hi>cure of Cold.</hi>
+               </p>
+               <p>Answ. 4. <hi>If experience approve them not, none will frequent them.</hi>
+               </p>
+               <p>
+                  <hi>Rep.</hi> 1. That holds not alwayes true; some sort of men will not be prescribed in their pleasures by other mens, nay, their own sad experience: we find none so ready to venture again, as those who have been bitten in a whore-house. 2. You should know who writes <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>
+                  <hi>Experience</hi> may be bought too dear, when <hi>health</hi> or <hi>life</hi> is the price; and our <hi>Patriots</hi> and <hi>Publisk</hi> men ought to be <hi>Promethei,</hi> not <hi>Epimethei.</hi> Those who have eyes in their fore-head, not behind.</p>
+               <p n="2">2. <hi>Objection.</hi> There are other Bathes, and particularly Doctor <hi>Grent's.</hi>
+               </p>
+               <p>Answ. 1. <hi>Doctor</hi> Grent <hi>hath done somewhat indeed, but the Common-wealth is not sensible of the benefit, and he himself hath quit the inconvenience, charge and trouble of them, and when be plea<g ref="char:EOLhyphen"/>seth, may adventure a second losse, or more safely be an adventurer in mine.</hi>
+               </p>
+               <p>
+                  <hi>Rep.</hi> 1. 'Tis well you will allow Doctor <hi>Grent</hi> something, we thought you had the whole monopoly of skill in this; he is be<g ref="char:EOLhyphen"/>holding to you, and they say, may make <hi>dignum patinâ opercu<g ref="char:EOLhyphen"/>lum.</hi> But, withall, you may know Doctor <hi>Grent</hi> had a rarer in<g ref="char:EOLhyphen"/>vention
+<pb n="5" facs="tcp:207725:4"/>in the forge, and that which was imitative of <hi>naturall Bathes,</hi> both for the <hi>nature</hi> of the <hi>Waters,</hi> and <hi>manner of Erup<g ref="char:EOLhyphen"/>tion:</hi> Yet he found not the <hi>Common-wealth</hi> so capable of a far<g ref="char:EOLhyphen"/>ther benefit, as to venture on their charge himself, or involve others in the hazard. 2. You make a kinde offer to him, and have done to many more: If you could engage them, I believe they must run more hazard then your self.</p>
+               <p>Answ. 2. <hi>Let every man enjoy what he hath, but not hinder what he hath not.</hi>
+               </p>
+               <p>
+                  <hi>Rep.</hi> 1. 'Tis well you doe allow that: The Ordinance which you did procure, did impropriate all unto your self. 2. That was not to hinder what is not, to desire there might be provision against the inconveniences which might ensue.</p>
+               <p>Object. 3. <hi>Other Doctors have them.</hi>
+               </p>
+               <p>Answ. 1. <hi>Why have they not been so zealous to serve the Com<g ref="char:EOLhyphen"/>mon-wealth with them as I? They cannot deny them to be good: That were to contradict their Masters, they will not confesse, they fear diminution of gain, that were to obtrude a strange maxime on the state: That sicknesse must be provided for Physitians.</hi>
+               </p>
+               <p>
+                  <hi>Rep.</hi> 1. Some have done their parts, you acknowledge Doctor <hi>Grent</hi> hath something. 2. Every man is not of a like activity: <hi>Greculus esuriens in coelum jusseris ibit.</hi> 3. The <hi>benefit</hi> of the <hi>Common-wealth</hi> is the cry of some, who intend their own, and have like <hi>Aristotles</hi> man, their own representation in their eye, between that, and every Object. 4. If his <hi>zeal</hi> were so great, why did he first impart his invention to a <hi>Forraign Nation,</hi> before he once offered it to us? Why doth he not make tender of it to another, unto which he owes his extraction? 5. When we see the benefit that will emerge unto the <hi>Common-wealth,</hi> by his, we shall acknowledge our Error. And yet many are not satisfied, that it will be a benefit; or if one, whether so great as may bal<g ref="char:EOLhyphen"/>lance the mischeif. Though they may allow <hi>Bathes</hi> of good use, and daily prescribe them, whether <hi>publick Bathes</hi> will not be like a skittish beast, that gives a good sope of milke, and kicketh down the paile? 6. Lastly it cannot be fear of <hi>diminution of their gain;</hi> for you have offered your golden Mountaines to some, if not all, and offered to make it appeare a great advantage: If that were their aime, they would suggest no caution against you,
+<pb n="6" facs="tcp:207725:5"/>for 'tis the common opinion of them, that yours will cut out more work for them.</p>
+               <p>Answ. 2. <hi>If they mean Bathing tubs, I contend not with them to debar their inconvenient priviledge, or compell them to this better accommodation: Yet I prescribed the use of them by M.</hi> Philips, <hi>and M.</hi> Kellet, <hi>in little lesse then desperate diseases before any, but sea<g ref="char:EOLhyphen"/>ven that are now fellowes of the Colledge were Doctors, and have ap<g ref="char:EOLhyphen"/>pointed not a few, since my comming over in consultations, and they have been made more use of since my proposal, then in any seaven yeares before.</hi>
+               </p>
+               <p>
+                  <hi>Rep.</hi> 1. <hi>Inconvenience</hi> and <hi>Priviledge</hi> are scarce consistent; yet if so, he needed not so contemptously despise now, what had done him former service. 2. If he prescribed them so long since, it was a signe he had much favour to be admitted so young, or that he is so much older then others; and that is but a poor pride, though in that (it is said) he stretches his leather beyond his last, 3. If he did appoint them in little lesse then <hi>desperate dieases,</hi> it is a good argument that <hi>Tubs,</hi> and <hi>private Bathes</hi> were of excellent use; we cannot learn that his <hi>Holland Bathes</hi> are guilty of such great cures, <hi>Quicquid verum est opportet ex omni parte consentire.</hi> 4. That others should prescribe so many since his proposall, and as he after writes, <hi>in probability enlightned and provoked by his Patterne;</hi> is but like the <hi>fly</hi> which sate upon the Chariot wheele in the <hi>Olympick games,</hi> and would be thought the Author of all that noise and dust.</p>
+               <p>Answ. 3. <hi>They say they know them, meaning mine, why then would they take no cognizance of them till the other day, notwith<g ref="char:EOLhyphen"/>standing the</hi> KING's <hi>grant to Sir</hi> Henry Vane <hi>ten yeares agoe, my Outroy in Holland, my Petitions in Print, mention to some of them, the Diurnall, and two Letters from the Committee?</hi>
+               </p>
+               <p>
+                  <hi>Rep.</hi> 1. If they did know them in generall, what was that to particular distinct knowledge of them? without that, they were not able to give a satisfactory accompt unto the <hi>Committee</hi> con<g ref="char:EOLhyphen"/>cerning them; <hi>ad pauca respiciat qui de facile pronunciat.</hi> Either the <hi>Doctor</hi> put a trick upon the <hi>Honourable Committee,</hi> when he pretended, before them, <hi>that it would be his prejudice to reveal himself to the Colledge, and must discover his mystery;</hi> or he doth alledge this to no purpose. 2. In the muster of his <hi>Authors,</hi> by
+<pb n="4" facs="tcp:207725:5"/>which his intention was divulged he forgets <hi>Elencticus,</hi> 3. In par<g ref="char:EOLhyphen"/>ticular, as yet few knew of any such concession to Sir <hi>H. Vane.</hi> It would transport the Doctor to heare it in <hi>publique,</hi> what I doe of his <hi>Outroy.</hi> There are but few <hi>Doctors</hi> stoop at such flyes as his <hi>Petition,</hi> or take notice of what all <hi>Diurnals</hi> intimate, they should have good leasure to take all such things into consideration.</p>
+               <p>Answ. 4. <hi>How long have they knowne them? If long, they have been uncharitable; if of late, they have been ignorant, untill enlightned by my Proposition, &amp;c.</hi>
+               </p>
+               <p>This was replyed unto under his 1. and 2. <hi>Ans.</hi> to the 3. <hi>Ob.</hi>
+               </p>
+               <p>Answer 5. <hi>If the heart-burning be against me, (though treasure should not be refused from a Turke) and my long experi<g ref="char:EOLhyphen"/>ence, study and expence in them might answer their comparisons: I had rather lay down all my merit at the feet of the P. &amp;c.</hi>
+               </p>
+               <p>
+                  <hi>Rep.</hi> 1. I know no mans heart burnes against you; divers pitty you to see you run so desperately upon a rock. 2. It is <hi>sub judice,</hi> whether your bathes are a benefit. 3. You have few good neighbours, that you are put to boast of your owne <hi>experi<g ref="char:EOLhyphen"/>ence, study,</hi> or <hi>merit.</hi>
+               </p>
+               <p n="4">4. Object. <hi>This will be a monopolie.</hi>
+               </p>
+               <p>Ans. 1. &amp; 2. <hi>Can there be a monopolie of what is not? or where eve<g ref="char:EOLhyphen"/>ry man is left at liberty to use what he hath, &amp; refuse what he hath not?</hi>
+               </p>
+               <p>
+                  <hi>Rep.</hi> You acknowledge that there are <hi>Bathes</hi> in the Kingdome already, yet your <hi>Ordinance</hi> was so <hi>generall</hi> and <hi>exclusive,</hi> that all kind of <hi>Bathes</hi> were thereby impropriated unto your benefit, and scarce liberty allowed for any one to wash his feet without your approbation. If you are convinced so far, that repentance will be accepted.</p>
+               <p>Ans. 3. &amp; 4. <hi>Or where no sweat of any mans brow is exacted without hire, no poore mans face ground, nor his bread engrossed, but rather new employments and provision for them.</hi> 2. <hi>Publique works are dif<g ref="char:EOLhyphen"/>ferent from Monopolies, and not capable of that Ordinance.</hi>
+               </p>
+               <p>
+                  <hi>Reply.</hi> No monopoly was ever erected, but pretended so much. All of them arrogate the inscription of <hi>Publique Benefit.</hi>
+               </p>
+               <p n="5">5. Object. <hi>They are no new invention.</hi>
+               </p>
+               <p>Answ. 1. <hi>In</hi> Solomons <hi>time there was nothing new under the Sun, no question but trees floted upon the water before</hi> Noahs <hi>Arke, nor was there any new thing created for the art of Guns, Printing, Load-stones. The water from</hi> Ware <hi>is called</hi> The new River. <hi>The
+<pb n="8" facs="tcp:207725:6"/>very grievance is, that Bathes having been anciently of admirable use and efficacie for the good of mankind, they are yet to be sought out and studied in</hi> England.</p>
+               <p>
+                  <hi>Rep.</hi> 1. You have been often told, that though <hi>Publique Bathes</hi> are not in use in <hi>England, Private</hi> are, whereby all necessary ends of Bathing may be accomplished, and when these may serve, <hi>frustra fit plura.</hi> 2. If such <hi>Bathes</hi> were publique, it is a <hi>Question</hi> whether, nay a <hi>certainty,</hi> that by the <hi>promiscuous resort</hi> unto them, the <hi>precipitate</hi> and unadvised <hi>use</hi> of them, which custome, wan<g ref="char:EOLhyphen"/>tonnesse, and opportunities may attempt unto, will beget more diseases in this Kingdome, then they can prevent or cure.</p>
+               <p>Answ. 2. <hi>If not now, where are any? Reply.</hi> Publique natural in <hi>Sommerset-shire,</hi> Private, artificiall, satisfactory for all inten<g ref="char:EOLhyphen"/>tions, are, or may be erected every where.</p>
+               <p>Answ. 3. <hi>Publique Artificiall Bathes, with their Archetecture, Order, use, safety, withsome of the ingredients and manner of decoction with their Cesterne, Water-worke, Hamaccous, are so very new, that they are not understood by many, when mentioned, nor the truth be<g ref="char:EOLhyphen"/>lieved when affirmed.</hi>
+               </p>
+               <p>
+                  <hi>Rep.</hi> 1. <hi>Publique Bathes</hi> in that pompous dresse, are not vul<g ref="char:EOLhyphen"/>garly known indeed, nor is it much materiall, so all <hi>Effects</hi> which can be produced by those, are attainable by <hi>private</hi> already practi<g ref="char:EOLhyphen"/>sed, <hi>Hamacco beds, Hammacco chaires, Hammacco couches</hi> in that canting phrase, were not understood by so many, as the <hi>Balnea Peusilia,</hi> conveiance of Patients in Bathes <hi>by sheetes,</hi> &amp;c. which (if they were of so much benefit as is pretended) were easily made use of in every private <hi>Stove,</hi> or <hi>Bathing-house.</hi> 2. There is no <hi>forme of Physick;</hi> take but <hi>Decoctions,</hi> or <hi>Bistilled waters,</hi> but may pretend to as much Pomp, and with as good reason to a <hi>Patent: Decoctions</hi> being made upon open <hi>fire,</hi> or in <hi>Balneo,</hi> in <hi>close</hi> or <hi>open Vessels,</hi> of <hi>various shapes,</hi> and <hi>matters</hi> of <hi>diverse Ingredients,</hi> some not in use perhaps, to be put in <hi>several orders,</hi> sometimes <hi>Infusions,</hi> to be premised, &amp;c. <hi>Destilled waters</hi> require more <hi>Prepa<g ref="char:EOLhyphen"/>ration</hi> and <hi>Diversity</hi> of <hi>Instruments</hi> and <hi>Matter.</hi> In <hi>Vomits</hi> or <hi>Purges,</hi> the like may be pretended: Suppose one hath a <hi>Project</hi> to revive the use of <hi>Hellebor,</hi> (which was of old, almost the onely Physick, and tis hardly now given) and make Haranges of the <hi>various preparation</hi> thereof, in <hi>Substance</hi> or <hi>Infusion, Extraction,</hi> or some <hi>rare Correction</hi> which was never thought of; or another
+<pb n="9" facs="tcp:207725:6"/>should find out that Art for which <hi>Antimony</hi> hath been crucified a hundred wayes to determine it to work by the Belly; Were it reaso<g ref="char:EOLhyphen"/>nall that these severall <hi>pretenders</hi> should obtain an Ordinance to in<g ref="char:EOLhyphen"/>vest them with the sole power of making Decoctions, Waters, Purges, Vomits, &amp;c. <hi>Magna otia coelis;</hi> The Parliament had need have good leasure, and might, upon as good ground be troubled for them. I could say more for a <hi>Circus, Pulestra,</hi> or <hi>Amphitheatre,</hi> where <hi>Exer<g ref="char:EOLhyphen"/>cises</hi> were used, and for the convenience of which, Bathes were built, and <hi>subservient.</hi>
+               </p>
+               <p n="6">6. Object. <hi>They may be occasions of Sin.</hi>
+               </p>
+               <p>Answ. 1. <hi>We may, by the same reason pluck down Churches, Ana<g ref="char:EOLhyphen"/>thematize publick meetings, where men and women appear in the best cloathes, and choisest dresse that can possibly tempt the eye, &amp;c. who can answer for the Bathes in Sommerset-shire, Inns and Taverns, &amp;c.</hi>
+               </p>
+               <p>
+                  <hi>Rep.</hi> 1. They not onely may be, but where ever they have had any place have been. I shall not need to tell the stories of the Ancient <hi>Bathes</hi> which every book almost is full of: whither the chastest Ma<g ref="char:EOLhyphen"/>tron could hardly repaire, but was corrupted, <hi>Penelope venit, abit, Helena.</hi> I shall onely instance in the <hi>Bannias</hi> or <hi>Bathes</hi> of <hi>Turkie,</hi> (which Doctor <hi>Chamberlain</hi> proposeth for our Pattern.) <hi>Much unna<g ref="char:EOLhyphen"/>rall lust is said to be committed in the Cels and retirements which belong unto them; yea, women with women, a thing incredible, if former times had not given detection and Punishment of it.</hi> So saith M. <hi>Sands</hi> in his travell, to whom the Doctor directs us: Yet we know with what severity the <hi>Turks</hi> observe their wives. 2. His consequence doth not follow. <hi>Churches</hi> are in <hi>Possession</hi> already, cannot be pulled down with<g ref="char:EOLhyphen"/>out charge, (though the <hi>Doctor</hi> is said to have pleaded for it.) Those or <hi>Meeting places, Taverns, Innes</hi> are necessary; neither of which can be said of publique Bathes. The <hi>Bathes of Sommerset-shire</hi> are over<g ref="char:EOLhyphen"/>seen by <hi>Officers</hi> which are <hi>Sworn</hi> to that purpose; and for the most part are severe in their duty: Yet that place, notwithstanding all the care that is possible, hath been thought a great occasion of Sinne.</p>
+               <p>Answ. 2. <hi>Publique places are not fit for wantonnesse as private are.</hi>
+               </p>
+               <p>
+                  <hi>Rep.</hi> 1. The Objection probably, was not meant of the <hi>Act in Publique,</hi> but the <hi>Rise</hi> or <hi>Projection</hi> of it, and the <hi>Colour</hi> for it; to which, if an accidentall cast of an eye at a greater distance of <hi>David</hi> upon <hi>Ʋriahs</hi> wife, or the <hi>Elders</hi> upon <hi>Susanna</hi> were an incentive. Much more it may at so hear a conversation as will be, or is possible in his <hi>Publique. Bathes.</hi> 2. There will be <hi>private recesses,</hi> and places of retirement, where such acts may be accomplished. 3. They must
+<pb n="10" facs="tcp:207725:7"/>very lascivious, who will attempt any such thing in a <hi>Box,</hi> or a <hi>Tub,</hi> or a <hi>Cradle,</hi> &amp;c. I have heard a <hi>Scotch</hi> man tell such an Act was once done in the bore of a gun, which they call <hi>great Meg,</hi> in the Castle of <hi>Edenburgh</hi> by a couple. But that an Englishman, under a prescripti<g ref="char:EOLhyphen"/>on of his health, and the cure for an infirmity (for which those are, if not altogether, yet most graciously used) should use such an incom<g ref="char:EOLhyphen"/>modious, if not impossible place to such a purpose, can hardly be admitted by a rational man. Indeed <hi>Stoves</hi> are capable of that in<g ref="char:EOLhyphen"/>convenience, and perhaps, though necessary, sometimes mis-im<g ref="char:EOLhyphen"/>ployed.</p>
+               <p>Answ. 3. <hi>Men and Women shall have places, times and attendance apart.</hi>
+               </p>
+               <p>
+                  <hi>Rep.</hi> 1. Those are good <hi>Cautions,</hi> but how shall we be sure of it from you? 2. These cautions are observed in <hi>Turkie,</hi> and were some<g ref="char:EOLhyphen"/>times so in the <hi>Roman</hi> and <hi>Greek Bathes.</hi> Yet you read but a little be<g ref="char:EOLhyphen"/>fore, how little that doth availe in the <hi>Bannius,</hi> but occasion a more unnaturall and horrid uncleannesse. 3. <hi>Quis custodiet custodes.</hi>
+               </p>
+               <p>Answ. 4. <hi>Abuse ought to disanull the use of good things.</hi>
+               </p>
+               <p>
+                  <hi>Rep.</hi> Yes, where the <hi>Abuse</hi> is greater then the <hi>use,</hi> or is <hi>unseparable;</hi> and that hath been the Doctrine and Practice of these times. It is con<g ref="char:EOLhyphen"/>ceived there will be little or no use of them above the Private. 3. It might bear some color if his Bathes were built already to keep them up.</p>
+               <p>Object. 7. <hi>They are good for the Pox.</hi>
+               </p>
+               <p>Answ. 1. <hi>Though Bathes were good for nothing else, should the world be infected for want of them? The Chastest bed is not alwayes exempt by accidentall conversations, bad deliveries or child-bed.</hi>
+               </p>
+               <p>
+                  <hi>Rep.</hi> 1. No such <hi>necessity</hi> or <hi>danger</hi> without. 2. The <hi>Publick Arti<g ref="char:EOLhyphen"/>ficiall Bathes</hi> are like rather to propagate the infection, and spread the disease, <hi>Ʋnius scubies totum corrumpet ovile;</hi> The whole company may contract it from one man in such a place. 3. <hi>Bad delivery</hi> or <hi>Child-bed</hi> may actuate lurking Seminary, and a contracted infection, but never give the disease, unlesse the hands of some uncleanly Mid-wife, which hath lately been employed in the service of some person that lies under a strong infection, do concur.</p>
+               <p>Answ. 2. <hi>Though they there fit Cure for that disease, ought they to be prohibited in all, why do they give bagges of guajacum sarsa.</hi>
+               </p>
+               <p>
+                  <hi>Rep. Bagges</hi> of <hi>guajacum sursa,</hi> &amp;c. cannot infect where the disease is already; these Bathes may, by the mixture of other company, nay, if they have been lately used by such persons.</p>
+               <p>Answ. <hi>Physitians cannot allow water Bathes as fit Indications of Cure.</hi>
+               </p>
+               <pb n="11" facs="tcp:207725:7"/>
+               <p>
+                  <hi>Rep.</hi> 1. It was never heard before, that <hi>Bathes,</hi> or any <hi>materia me<g ref="char:EOLhyphen"/>dicinae</hi> were intitled <hi>Indications;</hi> the Doctor dwelt not long upon his <hi>Institutions,</hi> or hath forgot them. 2. By his leave they may be <hi>indicata,</hi> e<g ref="char:EOLhyphen"/>specially <hi>Bath stoves,</hi> which his Patent includes. 3. The force of the objection lies not in that, Bathes are effectuall against the Pox; but that being, or at least thought so, persons who are infected, will thrust into them, and infect others, that that have recourse unto them.</p>
+               <p>Answ. 4. <hi>Good remedies they are to prevent, but not to cure it, the rea<g ref="char:EOLhyphen"/>son perhaps, that the disease was so unknown to the Ancients, or so little to the Turkes or Muscovites, notwithstanding their Luxurie.</hi>
+               </p>
+               <p>
+                  <hi>Rep.</hi> 1. You grant that <hi>Bath stoves</hi> may, 2. that is not much ma<g ref="char:EOLhyphen"/>teriall whether they are or no. If they be thought so; Infected per<g ref="char:EOLhyphen"/>sons will repaire thither. 3. They may prevent it as any lotion or wash<g ref="char:EOLhyphen"/>ing may with common water, but not so well, for certainly the more the body is dilated, the more receptive it must needs be rendred. 4. Some learned Authors thinke the Pox was not altogether unknown unto the Ancients: yet if it were how come the <hi>English,</hi> the <hi>Spanish,</hi> the <hi>French,</hi> the <hi>Dutch,</hi> &amp;c. to partake in that priviledge, who never knew the use <hi>of publique artificiall Bathes?</hi> The Doctor commends it in <hi>prevention</hi> of the <hi>sicknesse</hi> too, (and surely with as much reason as of <hi>the Pox,</hi>) why doth it not now do the same in <hi>Turkie</hi> where the <hi>Plague</hi> rageth <hi>annually,</hi> and in more violence then is knowne in other places where no <hi>Bathes</hi> are used? For <hi>Turkie</hi> and <hi>Muscovie,</hi> as to the <hi>Pox,</hi> I know no such immunity that they have. The disease rages in either Country, If it do not so much; there may be other accompts given of that, as <hi>Circumcision</hi> in that Nation (which more then one Author a<g ref="char:EOLhyphen"/>vow to be enjoyned among them more for policy then Religion.) In this, and that, their unnaturall and <hi>fandus concubitus cum viris &amp; bestiis,</hi> whence such infection is not so communicable.</p>
+               <p>Answ. 5. <hi>The Keepers will not so disparage the house, displease their Customers, and hazard their profit.</hi>
+               </p>
+               <p>
+                  <hi>Rep.</hi> 1. Must your <hi>Keepers search</hi> all incommers? If they do; they had need have your help, the disease is not so obvious to every eye sometimes. 2. If there be no greater restraint then the losse of custome and gaine, it is sufficiently knowne to the Country. It will be a great attractive of one and an advantage in the other.</p>
+               <p>Answ. 6. <hi>Patients will not seeke to publique places for Remedy, if they can have it else where, therefore it is an argument against private or baudy house Bathes, &amp;c.</hi>
+               </p>
+               <pb n="12" facs="tcp:207725:8"/>
+               <p>
+                  <hi>Rep.</hi> 1. Yes they will come to such <hi>places</hi> to chuse. That will be concealed best in a <hi>croud,</hi> the persons will be least suspected to come to places of resort. 2. The disease is not alwayes visible, that they need to fear discovery in company.</p>
+               <p>His Objections and Answers have been winnowed, we come to his Epilogue.</p>
+            </div>
+            <div type="conclusion">
+               <head>His <hi>Epilogue or Conclusion.</hi>
+               </head>
+               <p>TO <hi>Conclude, the designe of Bathes is Honourable, usefull, necessary. Honourable in being the praise and subject of</hi> 30. <hi>learned Physitians. and</hi> 50. <hi>other famous Authors, in being the work of many great Princes and Emperours, the grand Seignior, and great B. of Muscovie not being ashamed to this day to owne the Patronage and Revenue of this. They have been anciently had in divine reverence, and are next in esteeme unto their Mosques. And lastly, in making those places honourable that have them, and the people in health, beauty, stature, activity that frequent them.</hi>
+               </p>
+               <p>Certainly the praise of learned men, much lesse their discourse, ma<g ref="char:EOLhyphen"/>keth not a thing honourable, which is not so in its own selfe. We know <hi>great Authors</hi> have discoursed in commendation of <hi>little things,</hi> the <hi>gout, baldnesse,</hi> a <hi>louse;</hi> and <hi>great wits</hi> have writ in commendation of <hi>follie,</hi> of an <hi>Asse.</hi> The harder the theme, the better exercise it is for an accu<g ref="char:EOLhyphen"/>rate wit. The <hi>basest excrements</hi> have been the subject of <hi>great mens discourses,</hi> but they have no more <hi>honor</hi> by it.</p>
+               <p>The <hi>worke</hi> and <hi>glory of Princes</hi> and <hi>Emperours,</hi> makes them not so neither. The <hi>Pyramids</hi> as far surpassed the stateliest Bathes, as an <hi>Ele<g ref="char:EOLhyphen"/>phant</hi> a <hi>Calfe.</hi> The <hi>Manseolum, Colossus, &amp;c.</hi> were of more magnifi<g ref="char:EOLhyphen"/>cence, and built by great Princes, yet a good Author esteemes them no more then <hi>Otiosa principum vanitatis portenta.</hi> And these <hi>Ages</hi> think them onely <hi>difficiles nugae,</hi> erected onely to keep the <hi>people and mony from being idle.</hi>
+               </p>
+               <p>The <hi>Patronage of the Duke of Musco,</hi> and <hi>Seignior</hi> of Turkie is little honour to them, nor came their <hi>Revenue</hi> from them. <hi>This</hi> might be the <hi>cause</hi> of <hi>that. Odor lucri</hi> sweetens any vile action to covetous men. You have heard of <hi>Vespasians</hi> tribute of <hi>Pisse,</hi> and the <hi>Popes</hi> (who is a Prince too) of <hi>Stewes,</hi> &amp;c. Are <hi>Pisse,</hi> or <hi>Whores,</hi> &amp;c. the more honourable for that?</p>
+               <p>The <hi>Divine reverence</hi> is as little to the purpose which he speaks of, a <hi>Cow,</hi> a <hi>Calse</hi> were in that rank. So a <hi>Crocodile, Garli, &amp;c. Nascuntur in hortis numina.</hi> So are <hi>pieces of wood</hi> and <hi>babies</hi> in a time of more light.
+<pb n="13" facs="tcp:207725:8"/>But the Doctor might have learned of <hi>Aristotle,</hi> that <hi>Publick Artificial Bathes</hi> were not so. It was the <hi>hot</hi> and <hi>naturall</hi> unto which <hi>Divinity</hi> was attributed, and not for the <hi>structure</hi> or <hi>water,</hi> but <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. He might have found as much in <hi>Eng<g ref="char:EOLhyphen"/>land</hi> more proper to his purpose. Saint <hi>Winnifre</hi> her Well, Saint <hi>Mungus,</hi> &amp;c.</p>
+               <p>For <hi>Beauty,</hi> tis a great doubt whether they can advantage it. The contrary is found by experience in many. The <hi>Bathes</hi> in <hi>Muscovie</hi> (to take an instance of his owne) have not such influence upon the <hi>Native<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.</hi> The <hi>women</hi> are the <hi>ugliest</hi> in the world, so that they generally (even the poorest) paint to hide their deformity; and the <hi>men</hi> almost are as bad, the reason given by travailers is from their attendance upon, and conversation in their <hi>Bathes</hi> and <hi>Bathe-stvoes.</hi>
+               </p>
+               <p>At home in our <hi>Somersetshire-Bathes</hi> (though perhaps he will an<g ref="char:EOLhyphen"/>swer, they are not artificiall) you shall find but few beauties among the <hi>Guides,</hi> or those that use them most.</p>
+               <p>The story is knowne, that <hi>Angli</hi> were called <hi>Angeli</hi> for their beauty, and indeed no Nation exceeds them; and yet we (to use no other in<g ref="char:EOLhyphen"/>stances, which I can in many) as Dr. <hi>Chamberlain</hi> saith, are to <hi>study and find out the use of Bathes.</hi>
+               </p>
+               <p>
+                  <hi>Stature</hi> and <hi>activity</hi> or <hi>strength</hi> is not so dependant upon the use of <hi>Bathes</hi> neither. The <hi>English,</hi> the <hi>Scotch,</hi> &amp;c. in these dayes, are generally of as big a stature, and much more strong and active then those Nati<g ref="char:EOLhyphen"/>ons where they are in use. The old <hi>Germans, Scythians, Lacedemonians,</hi> were <hi>Honourable,</hi> and formidable for those qualifications among their proudest neighbours: Yet some were prohibited by Law to wash in warme water. The <hi>Germans</hi> did drench their young children in cold water.</p>
+               <p>Besides, <hi>Aristole</hi> in his <hi>Polit. Plato de Rep. &amp;c.</hi> doe advise to breed youth in cold and hardship, (never to suffer them to use warme fomentations) to make them more active and fit for War. In <hi>Plu<g ref="char:EOLhyphen"/>tarch</hi> it was prophesied that nothing was so likely to ruine the <hi>Roman Empire,</hi> as their <hi>Bathes</hi> and <hi>Amphitheatres</hi> which did <hi>effeminate</hi> the <hi>mindes,</hi> and <hi>weaken</hi> the <hi>bodies</hi> of their <hi>youth.</hi> Which <hi>Hip.</hi> in the words before alledged fully gives his suffrage in. But the Doctor goes on.</p>
+               <p>
+                  <hi>Ʋsefull in Health and Sicknesse, Peace and Warre, Winter and Summer.</hi>
+               </p>
+               <p>He might have added by <hi>day</hi> and by <hi>night,</hi> upon <hi>festivall</hi> and <hi>wor<g ref="char:EOLhyphen"/>king</hi> dayes, &amp;c. what his <hi>Authority, Experience,</hi> and <hi>Arguments</hi> are,
+<pb n="14" facs="tcp:207725:9"/>I have in some measure discovered. If he offer more, I shall adventure upon them, unlesse I be farther convinced.</p>
+               <p>
+                  <hi>Necessary to all great intentions of Cure, where other medicines no<g ref="char:EOLhyphen"/>thing benefit, as Gout, Stone, Child-bed, Cure of Melancholy, &amp;c.</hi>
+               </p>
+               <p>You gape too wide in your <hi>generall,</hi> for your <hi>particulars</hi> there is no poore tub which may not contend with yours therein, and doe as much.</p>
+               <p>
+                  <hi>O that the Worthies of Parliament, whiles others boast with the tyrant,</hi> Psal. 52. <hi>that they can doe evill, would find out a way to doe great things with expedition, and difficult things with ease, &amp;c.</hi>
+               </p>
+               <p>O that the Parliament were rid of the vexatious importunities of impertinent persons, that so they might the better attend to settle the Publique, which now cryes out like a woman in travaile.</p>
+               <trailer>FINIS.</trailer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
